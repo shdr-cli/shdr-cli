@@ -16,6 +16,7 @@ class Dev:
         self.name        = "shdr"
         self.age         = 17
         self.os          = "Debian"
+        self.os2         = "Windows 10"
         self.shell       = "/bin/zsh"
         self.editor      = "VSCode"
         
@@ -44,9 +45,9 @@ ls -la ~/skills/
 journalctl 
 ```
 <div align="center">
-<h2>🔭 Сейчас: Пишу аудиоплеер на C++ с использованием PortAudio под Linux.</h2>
+<h2>🔭 Сейчас: идей нет</h2>
 
-<h2>🌱 Изучаю: Обработку метаданных аудиофайлов.</h2>
+<h2>🌱 Изучаю: null</h2>
 
 </div>
 <h3>Факт: Си Си++</h3>
