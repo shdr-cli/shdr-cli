@@ -1,7 +1,7 @@
 <div>
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=48&duration=5000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=code+for+fun;dev+for+self" alt="Typing SVG"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=48&duration=5000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=dev+for+self" alt="Typing SVG"/>
     </a>
   </p>
 </div>
@@ -13,41 +13,23 @@
 ```python
 class Dev:
     def __init__(self):
-        self.name        = "shdr"
         self.age         = 17
-        self.os          = "Debian"
-        self.os2         = "Windows 10"
-        self.shell       = "/bin/zsh"
+        self.os          = "Windows 10"
+        self.shell       = "/bin/bash"
         self.editor      = "VSCode"
         
     def current_stack(self):
         return {
-            "languages":   ["C++", "Python", "Bash"],
+            "languages":   ["C++", "Python", "Rust", "Bash"],
             "tools":       ["Git", "CMake"]
         }
 
     def philosophy(self):
         return "Что раньше: материя или C++"
 ```
-```console
-ls -la ~/skills/
-```
-<div align="center">
-  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![VScode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-</div>
 
-```console
-journalctl 
-```
-<div align="center">
-<h2>🔭 Сейчас: идей нет</h2>
+![GitHub Streak](https://streak-stats.demolab.com/?user=shdr-cli&theme=github-dark&hide_border=true)
 
-<h2>🌱 Изучаю: null</h2>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=shdr-cli&show_icons=true&theme=github-dark&hide_border=true)
 
-</div>
-<h3>Факт: Си Си++</h3>
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shdr-cli&layout=compact&theme=github-dark&hide_border=true)
