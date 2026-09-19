@@ -28,8 +28,8 @@ class Dev:
         return "Что раньше: материя или C++"
 ```
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=shdr-cli&theme=github-dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shdr-cli&theme=github-dark&hide_border=false)
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=shdr-cli&show_icons=true&theme=github-dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=shdr-cli&show_icons=true&theme=github-dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shdr-cli&layout=compact&theme=github-dark&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shdr-cli&layout=compact&theme=github-dark&hide_border=false)
